@@ -16,7 +16,7 @@ Check the slides on week 4 for the details.
 - Add comments for each test describing what is the type of the test (example: BVT or ECP)
 
 - You can run the test cases using the following commant in terminal
--- hahahaha
+
 
 ```
 npm test
